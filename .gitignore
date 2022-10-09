@@ -1,0 +1,4 @@
+/* mendefinisikan folder test dengan semua file didalamnya */
+
+/node_modules/*
+# /config/*
