@@ -25,3 +25,12 @@ Annas Abdulloh / Challange Chapter 5, FSW-2
 4. http://localhost:8000/api/v1/cars-upload (POST) : untuk menampilkan data mobil melalui form
 5. http://localhost:8000/api/v1/cars/:id (PUT) : untuk memperbarui data mobil
 6. http://localhost:8000/api/v1/cars/:id (DELETE) : untuk menghapus data mobil
+
+## REQUEST
+![request](https://user-images.githubusercontent.com/108776904/194762271-286a1798-d64f-4564-ac5b-e8330cad3cee.PNG)
+
+## RESPONS
+![respons](https://user-images.githubusercontent.com/108776904/194762322-561ae684-34b4-4bdd-9684-74bb550a852e.PNG)
+
+## ERD
+![WhatsApp Image 2022-10-09 at 20 30 56](https://user-images.githubusercontent.com/108776904/194762342-5b637511-2eef-4d58-a383-42ef0416805c.jpeg)
